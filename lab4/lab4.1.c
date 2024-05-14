@@ -58,8 +58,8 @@ int main (int argc, char* argv[])
     if(setenv("MYVAR","no",1) == -1){
         perror("Error");
     }
-
+    
     printf("now MYVAR is %s\n", getenv("MYVAR"));
-
+    sleep(10000);
     return 0;
 }
