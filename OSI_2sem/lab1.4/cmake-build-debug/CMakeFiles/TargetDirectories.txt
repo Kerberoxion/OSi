@@ -1,0 +1,3 @@
+/home/vboxuser/OSIpart2/lab1.4/cmake-build-debug/CMakeFiles/lab1_4.dir
+/home/vboxuser/OSIpart2/lab1.4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vboxuser/OSIpart2/lab1.4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
